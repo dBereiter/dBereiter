@@ -9,7 +9,7 @@
 ![Swagger](https://img.shields.io/badge/Swagger-green?style=for-the-badge&logo=swagger)
 ![CharlesProxy](https://img.shields.io/badge/Charles_proxy-blue?style=for-the-badge&logo=charles)
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-e8e8e8?style=for-the-badge&logo=python&logoColor=blue)
 ![PShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
