@@ -1,6 +1,6 @@
-## Greetings! Den nice to see you 😏
+## Greetings! Aleksey nice to see you 😏
 
-### Manual QA Engineer Skills 🌬️👾 
+### Manual QA Engineer Skills 🌬️
 
 ---
 
