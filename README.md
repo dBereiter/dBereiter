@@ -26,6 +26,7 @@
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ![Debian](https://img.shields.io/badge/debian-A81D33?style=for-the-badge&logo=debian)
+![Windows](https://img.shields.io/badge/windows-blue?style=for-the-badge&logo=windows)
 
 ---
 
